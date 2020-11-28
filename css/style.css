@@ -97,7 +97,7 @@ a{
 
 
 .header {
-    background-image: url(/img/header-back.jpg);
+    background-image: url(../img/header-back.jpg);
     background-position: center 50px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -200,7 +200,7 @@ a{
 
 
 .video {
-    background-image: url(/img/trailer-back.jpg);
+    background-image: url(../img/trailer-back.jpg);
     height: 100vh;
     background-position: center center;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ a{
 .video__btn::before{
     position: absolute;
     content: "";
-    background-image: url(/img/icon/youtube.svg);
+    background-image: url(../img/icon/youtube.svg);
     width: 100px;
     height: 100px;
     left: 0;
@@ -408,7 +408,7 @@ a{
 
 /* header  */
 .page-header{
-    background-image: url(/img/season1-back.jpg);
+    background-image: url(../img/season1-back.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
