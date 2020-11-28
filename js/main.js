@@ -18,8 +18,8 @@ $(function(){
         slidesToShow: 1,
         slidesToScroll: 1,
         asNavFor: '.heroes__slider-text',
-        prevArrow:   '<button type="button" class="slick-btn  slick-prev"><img src="/img/icon/arrow-left.png" alt="prev"></button>',
-        nextArrow:   '<button type="button" class="slick-btn  slick-next"><img src="/img/icon/arrow-right.svg" alt="next"></button>',
+        prevArrow:   '<button type="button" class="slick-btn  slick-prev"><img src="img/icon/arrow-left.png" alt="prev"></button>',
+        nextArrow:   '<button type="button" class="slick-btn  slick-next"><img src="img/icon/arrow-right.svg" alt="next"></button>',
         responsive: [
             {
               breakpoint: 769,
